@@ -1,3 +1,5 @@
+![banner][banner] 
+[img1]: /ruta/a/la/imagen.jpg "Título alternativo"
 ### Hi there, I'm Liza! 👋 you can call me Lizz
 
 👨‍💻 Software Developer | 🌱 Constantly Learning | 💡 Creative Thinker
@@ -12,9 +14,20 @@ I'm passionate about coding and creativity, on a journey to master web developme
 
 [![GitHub followers](https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social)](https://github.com/lizzmedina)
 
-### Conéctate conmigo 💻
+### Herramientas:
+![Javascript](https://img.shields.io/badge/Lenguajes-javascript-yellow)
+![React](https://img.shields.io/badge/Framework-react-blue)
+![TypeScript](https://img.shields.io/badge/Lenguajes-typescript-blue)
+![Java](https://img.shields.io/badge/Lenguajes-java-orange)
+![SpringBoot](https://img.shields.io/badge/Framework-spring%20boot-brightgreen)
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
+![Git](https://img.shields.io/badge/Version%20Control-Git-orange)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)
 
-Puedes encontrarme en las redes sociales y ponerte en contacto conmigo:
+### Conéctate conmigo 💻
 
 📧 [Correo Electrónico](lizzmedina15@gmail.com)
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/).
+___
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aniramirez2&show_icons=true&theme=lizzmedina)
