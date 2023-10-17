@@ -1,5 +1,4 @@
-![banner][banner] 
-[img1]: /ruta/a/la/imagen.jpg "Título alternativo"
+
 ### Hi there, I'm Liza! 👋 you can call me Lizz
 
 👨‍💻 Software Developer | 🌱 Constantly Learning | 💡 Creative Thinker
