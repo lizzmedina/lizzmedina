@@ -22,7 +22,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
 📧 [Contact Me](mailto:lizzmedina15@gmail.com)
 
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/)
-🌐 [My Website](my-site-and-portfolio-94sajbc55-lizzmedina.vercel.app)
+🌐 [My Website](https://my-site-and-portfolio-94sajbc55-lizzmedina.vercel.app)
 
 ___
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzmedina&show_icons=true&theme=lizzmedina)
