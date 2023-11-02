@@ -1,4 +1,4 @@
-
+<img src="https://media.licdn.com/dms/image/D5616AQHfBVEP-b17Ig/profile-displaybackgroundimage-shrink_350_1400/0/1694131520511?e=1704326400&v=beta&t=NGxTb0UUdjzJfEofqP0Gz9j_DV3Z7VSzTdiIkohKL0s" alt="banner" </img>
 ### Hi there, I'm Liza! 👋 you can call me Lizz
 
 👨‍💻 Software Developer | 🌱 Constantly Learning | 💡 Creative Thinker
