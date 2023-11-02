@@ -23,4 +23,4 @@ I'm passionate about coding and creativity, on a journey to master web developme
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/).
 🌐 [My web site](https://my-site-and-portfolio-hfbl7m0hx-lizzmedina.vercel.app/)
 ___
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aniramirez2&show_icons=true&theme=lizzmedina)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzmedina&show_icons=true&theme=lizzmedina)
