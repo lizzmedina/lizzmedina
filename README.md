@@ -46,22 +46,21 @@ I'm passionate about coding and creativity, on a journey to master web developme
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/)
 🌐 [My Website](https://my-site-and-portfolio.vercel.app)
 ___
-<p>
-              Passionate about learning, who decided to change career and go from a degree in early childhood 
-              pedagogy to a developer, taking advantage of the opportunities available with virtuality.
-              Some experience working in the Tech Developer integrative project, where I played the role of frontend 
-              using HTML, CSS, React, some libraries as font awesome, sweetalert, react icons, react calendar and including agile methodology: scrum;
-              plus friendly, authentic and cheerful personality; with principles such as resilience, responsibility, 
-              perseverance and determination; which stands out for assertive communication, versatility, proactivity and efficiency.
-          </p>
-          <h5>Studies</h5>
-          <ul>
-            <li>📙 Student of "frontend specialization"  at Digital House through a scholarship - Julio / 2023 - Julio / 2024.</li>             
-            <li>📜 Completed a "Backend Bootcamp" offered by Makaia through a scholarship - Julio - Nov / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_backend-java-programacion-activity-7133465936090537985-JHyT?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>    
-            <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
-            <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li> 
-            
-          </ul>
-          ____
+<h4>About me</h4>
+<p> Passionate about learning, who decided to change career and go from a degree in early childhood 
+    pedagogy to a developer, taking advantage of the opportunities available with virtuality.
+    Some experience working in the Tech Developer integrative project, where I played the role of frontend 
+    using HTML, CSS, React, some libraries as font awesome, sweetalert, react icons, react calendar and including agile methodology: scrum;
+    plus friendly, authentic and cheerful personality; with principles such as resilience, responsibility, 
+    perseverance and determination; which stands out for assertive communication, versatility, proactivity and efficiency.
+</p>
+<h5>Studies</h5>
+    <ul>
+      <li>📙 Student of "frontend specialization"  at Digital House through a scholarship - Julio / 2023 - Julio / 2024.</li>             
+      <li>📜 Completed a "Backend Bootcamp" offered by Makaia through a scholarship - Julio - Nov / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_backend-java-programacion-activity-7133465936090537985-JHyT?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>    
+      <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
+      <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>             
+    </ul>
+____
 ___
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzmedina&show_icons=true&theme=lizzmedina)
