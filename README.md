@@ -56,9 +56,9 @@ ___
 <h5>Studies</h5>
     <ul>
       <li>📙 Student of "frontend specialization"  at Digital House through a scholarship - Julio / 2023 - Julio / 2024.</li>             
-      <li>📜 Completed a "Backend Bootcamp" offered by Makaia through a scholarship - Julio - Nov / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_backend-java-programacion-activity-7133465936090537985-JHyT?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>    
-      <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
-      <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>             
+      <li>📜 Completed a "Backend Bootcamp" offered by Makaia through a scholarship - Julio - Nov / 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_backend-java-programacion-activity-7133465936090537985-JHyT?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>    
+      <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
+      <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>             
     </ul>
 ___
 
