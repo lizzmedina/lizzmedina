@@ -27,6 +27,8 @@ I'm passionate about coding and creativity, on a journey to master web developme
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    </p>
+    <p>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
   <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="powerBi" width="40" height="40"/> </a>
@@ -34,9 +36,6 @@ I'm passionate about coding and creativity, on a journey to master web developme
   <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest-assured" width="40" height="40"/> </a> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="maven" width="40" height="40"/> </a>
   <img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" alt="jwt" width="40" height="40"/> </a>
-  <img src=" alt="" width="40" height="40"/> </a>
-  <img src=" alt="" width="40" height="40"/> </a>
-  <img src=" alt="" width="40" height="40"/> </a>
   </p>
 
 ### Conéctate conmigo 💻
@@ -61,6 +60,5 @@ ___
       <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
       <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="_blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>             
     </ul>
-____
 ___
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lizzmedina&show_icons=true&theme=lizzmedina)
