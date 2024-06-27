@@ -34,7 +34,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
 ### Frameworks:
 <p align="left">
   <div>
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp](https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" alt="Next.js" width="40" height="40"/> Next.js
+    <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" width="40" height="40"/> Next.js
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> Spring Boot
