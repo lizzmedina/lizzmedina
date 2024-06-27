@@ -38,7 +38,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
 ### Frameworks:
 <p align="left">
   <div>
-    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js" width="40" height="40"/> Next.js
+    <img src="[https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp](https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png)" alt="Next.js" width="40" height="40"/> Next.js
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> Spring Boot
@@ -47,13 +47,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
 
 ### Librerías:
 <p align="left">
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React.js
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> Material UI
-  </div>
-  <div>
+    <div>
     • Shadcn
   </div>
   <div>
@@ -61,6 +55,12 @@ I'm passionate about coding and creativity, on a journey to master web developme
   </div>
   <div>
     • React Calendar
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React.js
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> Material UI
   </div>
   <div>
     <img src="https://sweetalert2.github.io/images/favicon.png" alt="SweetAlert" width="40" height="40"/> SweetAlert
