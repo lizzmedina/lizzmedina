@@ -18,22 +18,29 @@ I'm passionate about coding and creativity, on a journey to master web developme
 
 ## Languages and Tools:
 
+## Languages and Tools:
+
 ### Lenguajes:
 <p align="left">
-
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
   </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java
+  </div>
 </p>
 
 ### Frameworks:
 <p align="left">
   <div>
-    <img src="[https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp](https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp)" alt="Next.js" width="40" height="40"/> Next.js
-  </div>   
+    <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js" width="40" height="40"/> Next.js
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> Spring Boot
+  </div>
 </p>
 
 ### Librerías:
@@ -48,17 +55,21 @@ I'm passionate about coding and creativity, on a journey to master web developme
     <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Shadcn" width="40" height="40"/> Shadcn
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/> React Icons
-  </div>
-  <div>
-    React Calendar
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Font_Awesome_5_logo.svg" alt="Font Awesome" width="40" height="40"/> Font Awesome
   </div>
   <div>
     <img src="https://sweetalert2.github.io/images/favicon.png" alt="SweetAlert" width="40" height="40"/> SweetAlert
   </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/> React Icons
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/wojtekmaj/react-calendar/master/logo.svg" alt="React Calendar" width="40" height="40"/> React Calendar
+  </div>
 </p>
+
 ### Estilos:
-<p>
+<p align="left">
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3
   </div>
@@ -68,20 +79,27 @@ I'm passionate about coding and creativity, on a journey to master web developme
   <div>
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
   </div>
-    <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Font_Awesome_5_logo.svg" alt="Font Awesome" width="40" height="40"/> Font Awesome
-  </div>  
 </p>
 
 ### Otros:
 <p align="left">
   <div>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
-  </div>    
+  </div>
   <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> Postman
+  </div>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40"/> Swagger
+  </div>
+  <div>
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/> JUnit
+  </div>
+  <div>
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> Jest
   </div>
 </p>
+
 
 
 ### Conéctate conmigo 💻
