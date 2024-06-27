@@ -4,6 +4,8 @@
 
 👨‍💻 Software Developer | 🌱 Constantly Learning | 💡 Creative Thinker
 
+| Frontend | Backend | Java | React js | Typescipt | Next js | Spring Boot |
+
 I'm passionate about coding and creativity, on a journey to master web development. Frontend enthusiast with a curious mind for backend technologies.
 
 📚 In my leisure time, you'll often find me immersed in the pages of a book, exploring new worlds and ideas 🛸. I also like to travel 🗺️, always in search of new experiences and cultures to inspire my journey. When I'm not exploring code or the world, I'm experimenting with new recipes in the kitchen 🌮.
@@ -15,47 +17,36 @@ I'm passionate about coding and creativity, on a journey to master web developme
 [![GitHub followers](https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social)](https://github.com/lizzmedina)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    </p>
-    <p>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
-  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png" alt="powerBi" width="60" height="40"/> </a>
-  <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="selenium" width="60" height="40"/> </a>
-  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="rest-assured" width="40" height="40"/> </a> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/2560px-Apache_Maven_logo.svg.png" alt="maven" width="60" height="40"/> </a>
-  <img src="https://seeklogo.com/images/J/jwt-logo-11B708E375-seeklogo.com.png" alt="jwt" width="60" height="40"/> </a>
-  </p>
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> HTML5
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React.js
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/> Next.js
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> Bootstrap
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> Material UI
+  <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Shadcn" width="40" height="40"/> Shadcn
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Font_Awesome_5_logo.svg" alt="Font Awesome" width="40" height="40"/> Font Awesome
+  <img src="https://raw.githubusercontent.com/t4t5/sweetalert/master/docs/assets/sweetalert-transparent.png" alt="SweetAlert" width="40" height="40"/> SweetAlert
+  <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/> React Icons
+  <img src="https://raw.githubusercontent.com/wojtekmaj/react-calendar/master/logo.svg" alt="React Calendar" width="40" height="40"/> React Calendar
+</p>
 
 ### Conéctate conmigo 💻
 
 📧 [Contact Me](mailto:lizzmedina15@gmail.com)
-
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/)
 
 ___
 <h4>About me</h4>
-<p> Passionate about learning, who decided to change career and go from a degree in early childhood 
-    pedagogy to a developer, taking advantage of the opportunities available with virtuality.
-    Some experience working in the Tech Developer integrative project, where I played the role of frontend 
-    using HTML, CSS, React, some libraries as font awesome, sweetalert, react icons, react calendar and including agile methodology: scrum;
-    plus friendly, authentic and cheerful personality; with principles such as resilience, responsibility, 
-    perseverance and determination; which stands out for assertive communication, versatility, proactivity and efficiency.
+<p>Passionate about learning, who decided to change career and go from a degree in early childhood pedagogy to a developer, taking advantage of the opportunities available with virtuality. Some experience working in the Tech Developer integrative project, where I played the role of frontend using HTML, CSS, React, Next.js, TypeScript, and libraries such as Font Awesome, SweetAlert, React Icons, React Calendar. Additionally, I have utilized styling frameworks and libraries like Bootstrap, Tailwind CSS, Material UI, and Shadcn, incorporating agile methodology: Scrum. Known for a friendly, authentic, and cheerful personality; with principles such as resilience, responsibility, perseverance, and determination; which stands out for assertive communication, versatility, proactivity, and efficiency.
 </p>
 <h5>Studies</h5>
     <ul>
-      <li>📙 Student of "frontend specialization"  at Digital House through a scholarship - Julio / 2023 - Julio / 2024.</li>             
+      <li>📙 Completed of "frontend specialization"  at Digital House through a scholarship - Julio / 2023 - Junio / 2024.</li>             
       <li>📜 Completed a "Backend Bootcamp" offered by Makaia through a scholarship - Julio - Nov / 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_backend-java-programacion-activity-7133465936090537985-JHyT?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>    
       <li>📜 Completed the 'Curso Profesional de JavaScript' at CodeFacilito. Abril 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_semanafronted-codigofacilito-activity-7055609862541463552-ARYZ?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span></li>
       <li>📜 Certified as "Professional Developer" by Digital House through a scholarship - oct / 2021- junio / 2023. <span><a target="blank" href="https://www.linkedin.com/posts/liza-medina_profesional-devoloper-activity-7091901537211310080-mPpf?utm_source=share&utm_medium=member_desktop">Ver publicación</a> </span> </li>             
