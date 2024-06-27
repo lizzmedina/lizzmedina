@@ -18,87 +18,98 @@ I'm passionate about coding and creativity, on a journey to master web developme
 
 ## Languages and Tools:
 
-### Lenguajes:
-<p align="left">
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> JavaScript
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> TypeScript
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> Java
-  </div>
-</p>
+### Lenguajes y Frameworks:
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      <br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next.js" width="40" height="40"/>
+      <br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
+      <br>Spring Boot
+    </td>
+  </tr>
+</table>
 
-### Frameworks:
-<p align="left">
-  <div>
-    <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.2/1713018281951/Microsoft.VisualStudio.Services.Icons.Default" alt="Next.js" width="40" height="40"/> Next.js
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/> Spring Boot
-  </div>
-</p>
-
-### Librerías:
-<p align="left">
-    <div>
-    • Shadcn
-  </div>
-  <div>
-    • Font Awesome
-  </div>
-  <div>
-    • React Calendar
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> React.js
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> Material UI
-  </div>
-  <div>
-    <img src="https://sweetalert2.github.io/images/favicon.png" alt="SweetAlert" width="40" height="40"/> SweetAlert
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/> React Icons
-  </div>
-</p>
-
-### Estilos:
-<p align="left">
-  <div>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> CSS3
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/> Bootstrap
-  </div>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> Tailwind CSS
-  </div>
-</p>
-
-### Otros:
-<p align="left">
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> Git
-  </div>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> Postman
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40"/> Swagger
-  </div>
-  <div>
-    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/> JUnit
-  </div>
-  <div>
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> Jest
-  </div>
-</p>
-
-
+### Librerías, Estilos y Otros:
+<table>
+  <tr>
+    <td align="center">
+      • Shadcn
+    </td>
+    <td align="center">
+      • Font Awesome
+    </td>
+    <td align="center">
+      • React Calendar
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      <br>React.js
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/>
+      <br>Material UI
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://sweetalert2.github.io/images/favicon.png" alt="SweetAlert" width="40" height="40"/>
+      <br>SweetAlert
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/>
+      <br>React Icons
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+      <br>CSS3
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap" width="40" height="40"/>
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+      <br>Postman
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="Swagger" width="40" height="40"/>
+      <br>Swagger
+    </td>
+    <td align="center">
+      <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
+      <br>JUnit
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/>
+      <br>Jest
+    </td>
+  </tr>
+</table>
 
 
 ### Conéctate conmigo 💻
