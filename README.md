@@ -112,8 +112,10 @@ I'm passionate about coding and creativity, on a journey to master web developme
 </table>
 
 
-### Conéctate conmigo 💻
-
+<h2>
+  Conéctate conmigo 💻
+</h2>
+  
 📧 [Contact Me](mailto:lizzmedina15@gmail.com)
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/)
 
