@@ -20,6 +20,8 @@ I'm passionate about coding and creativity, on a journey to master web developme
 
 ## Languages and Tools:
 
+## Languages and Tools:
+
 ### Lenguajes:
 <p align="left">
   <div>
@@ -52,19 +54,19 @@ I'm passionate about coding and creativity, on a journey to master web developme
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"/> Material UI
   </div>
   <div>
-    <img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Shadcn" width="40" height="40"/> Shadcn
+    • Shadcn
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Font_Awesome_5_logo.svg" alt="Font Awesome" width="40" height="40"/> Font Awesome
+    • Font Awesome
+  </div>
+  <div>
+    • React Calendar
   </div>
   <div>
     <img src="https://sweetalert2.github.io/images/favicon.png" alt="SweetAlert" width="40" height="40"/> SweetAlert
   </div>
   <div>
     <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" alt="React Icons" width="40" height="40"/> React Icons
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/wojtekmaj/react-calendar/master/logo.svg" alt="React Calendar" width="40" height="40"/> React Calendar
   </div>
 </p>
 
@@ -99,6 +101,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"/> Jest
   </div>
 </p>
+
 
 
 
