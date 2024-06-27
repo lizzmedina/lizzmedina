@@ -43,7 +43,7 @@ I'm passionate about coding and creativity, on a journey to master web developme
 📧 [Contact Me](mailto:lizzmedina15@gmail.com)
 
 👔 [LinkedIn](https://www.linkedin.com/in/liza-medina/)
-🌐 [My Website](https://my-site-and-portfolio.vercel.app)
+
 ___
 <h4>About me</h4>
 <p> Passionate about learning, who decided to change career and go from a degree in early childhood 
