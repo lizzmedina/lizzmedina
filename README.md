@@ -43,7 +43,19 @@ I'm passionate about coding and creativity, on a journey to master web developme
     </td>
   </tr>
 </table>
-
+### Bases de datos: 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+      <br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+      <br>MySQL
+    </td>
+  </tr>
+</table>
 ### Librerías, Estilos y Otros:
 <table>
   <tr>
