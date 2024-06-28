@@ -43,7 +43,9 @@ I'm passionate about coding and creativity, on a journey to master web developme
     </td>
   </tr>
 </table>
-### Bases de datos: 
+
+### Bases de datos:
+
 <table>
   <tr>
     <td align="center">
@@ -56,7 +58,9 @@ I'm passionate about coding and creativity, on a journey to master web developme
     </td>
   </tr>
 </table>
+
 ### Librerías, Estilos y Otros:
+
 <table>
   <tr>
     <td align="center">
